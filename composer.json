@@ -3,6 +3,6 @@
     "description": "A short description of what your package does",
     "require": {
         "php": "^5.6 || ^7.0",
-        "another-vendor/package": "1.*"
+        "your-vendor-name/package-name": "1.*"
     }
 }
