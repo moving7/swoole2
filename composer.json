@@ -3,6 +3,6 @@
     "description": "Swoole file",
     "require": {
         "php": ">=5.3.0",
-        "vendor/swoole": "1.*"
+        "swoole": "1.*"
     }
 }
