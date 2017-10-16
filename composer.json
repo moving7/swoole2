@@ -1,8 +1,6 @@
 {
-    "name": "vendor/swoole",
-    "description": "A short description of what your package does",
     "require": {
-        "php": "^5.6 || ^7.0",
-        "your-vendor-name/package-name": "1.*"
+        "php": ">=5.3.0",
+        "vendor/swoole": "1.*"
     }
 }
