@@ -1,7 +1,6 @@
 <?php
 //创建websocket服务器对象，监听0.0.0.0:9502端口\
-//$ws = new swoole_websocket_server("127.0.0.1", 9502);
-$ws = new swoole_websocket_server("0.0.0.0", 9512);
+$ws = new swoole_websocket_server("0.0.0.0", 9503);
 $ws->user_c = [];   //给ws对象添加属性user_c，值为空数组；
 //监听WebSocket连接打开事件
 $ws->on('open', function ($ws, $request) {
