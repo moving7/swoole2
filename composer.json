@@ -1,0 +1,14 @@
+{
+    "name": "swoole/socket",
+    "description": "this is a test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "moving7",
+            "email": "1115123081@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
